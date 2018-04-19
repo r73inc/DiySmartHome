@@ -21,11 +21,7 @@ To be updated at a later time
 Give the example
 ```
 
-And repeat
 
-```
-until finished
-```
 
 End with an example of getting some data out of the system or using it for a little demo
 

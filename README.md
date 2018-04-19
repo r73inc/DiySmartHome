@@ -1,5 +1,5 @@
 # DiySmartHome
-Homemade smart home hardware and software. S hobby project to create and code as many useful smarthome devices as we can. 
+Homemade smart home hardware and software. A hobby project to create and code as many useful smarthome devices as we can. 
 
 ## Getting Started
 
